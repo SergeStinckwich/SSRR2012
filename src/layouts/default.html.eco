@@ -6,7 +6,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width">
-	<title>Bootstrap, from Twitter</title>
+	<title>SSRR 2012</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 
@@ -38,7 +38,7 @@
 	<div class="navbar navbar-fixed-top">
 		<div class="navbar-inner">
 			<div class="container">
-				<a class="brand" href="/">Welcome</a>
+				<a class="brand" href="/">SSRR 2012</a>
 				<ul class="nav">
 					<% for document in @documents: %>
 						<% if document.url.indexOf('/pages') == 0: %>
@@ -56,7 +56,7 @@
 			<%- @content %>
 		</section>
 		<footer>
-			<p>&copy; Company 2011</p>
+			<p>&copy; SSRR2012</p>
 			<p style="float:right;">
 				This website was generated on <%= @site.date.toIsoDateString() %> and has <%= @site.totalDocuments %> documents
 			</p>
