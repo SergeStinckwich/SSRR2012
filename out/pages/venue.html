@@ -42,6 +42,24 @@
                 <ul class="nav">
                     
                         
+                        <li typeof="sioc:Page" about="/pages/call-for-papers.html" class="">
+                            <a href="/pages/call-for-papers.html" property="dc:title">Call for Papers</a>
+                        </li>
+                        
+                    
+                        
+                        <li typeof="sioc:Page" about="/pages/committee.html" class="">
+                            <a href="/pages/committee.html" property="dc:title">Commitee</a>
+                        </li>
+                        
+                    
+                        
+                        <li typeof="sioc:Page" about="/pages/important-dates.html" class="">
+                            <a href="/pages/important-dates.html" property="dc:title">Important Dates</a>
+                        </li>
+                        
+                    
+                        
                     
                         
                         <li typeof="sioc:Page" about="/pages/venue.html" class="active">
@@ -82,12 +100,6 @@
                         
                     
                         
-                        <li typeof="sioc:Page" about="/pages/call-for-papers.html" class="">
-                            <a href="/pages/call-for-papers.html" property="dc:title">Getting Started</a>
-                        </li>
-                        
-                    
-                        
                     
                         
                     
@@ -110,7 +122,7 @@
     <li class="nav-header"><a href="#markups">Markups</a></li>
     
     
-    <li><a href="#sass-to-css.css.sass">SASS to CSS</a></li>
+    <li><a href="#stylus-to-css.css.stylus">Stylus to CSS</a></li>
     
     
     
@@ -164,9 +176,13 @@
     
     
     
+    <li><a href="#sass-to-css.css.sass">SASS to CSS</a></li>
     
     
-    <li><a href="#stylus-to-css.css.stylus">Stylus to CSS</a></li>
+    
+    
+    
+    
     
     
     
@@ -217,35 +233,35 @@
     <tbody>
         
             
-            <tr typeof="sioc:Page" about="/markups/sass-to-css.css" id="sass-to-css.css.sass">
+            <tr typeof="sioc:Page" about="/markups/stylus-to-css.css" id="stylus-to-css.css.stylus">
                 <td colspan="2">
-                    <strong>SASS to CSS</strong>
+                    <strong>Stylus to CSS</strong>
                 <td>
             </tr>
-            <tr typeof="sioc:Page" about="/markups/sass-to-css.css">
+            <tr typeof="sioc:Page" about="/markups/stylus-to-css.css">
                 <td>
-                    sass-to-css.css.sass
-                    <pre class="prettyprint lang-sass">a
-  :color #fff
-  &amp;:hover
-    :color #000
-  &amp;.active
-    :background #888
-    &amp;:hover
-      :color #fff</pre>
+                    stylus-to-css.css.stylus
+                    <pre class="prettyprint lang-stylus">border-radius()
+    -webkit-border-radius arguments
+    -moz-border-radius arguments
+    border-radius arguments
+
+body a
+    font 12px/1.4 &quot;Lucida Grande&quot;, Arial, sans-serif
+    background black
+    color #ccc
+
+form input
+    padding 5px
+    border 1px solid
+    border-radius 5px</pre>
                 </td>
                 <td>
-                    <a href="/markups/sass-to-css.css">
-                        sass-to-css.css
+                    <a href="/markups/stylus-to-css.css">
+                        stylus-to-css.css
                     </a>
-                    <pre class="prettyprint lang-sass">a {
-  color: #fff;}
-a:hover {
-  color: #000;}
-a.active {
-  background: #888;}
-a.active:hover {
-  color: #fff;}
+                    <pre class="prettyprint lang-stylus">body a{font:12px/1.4 &quot;Lucida Grande&quot;,Arial,sans-serif;background:#000;color:#ccc}
+form input{padding:5px;border:1px solid;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px}
 </pre>
                 </td>
             </tr>
@@ -551,40 +567,44 @@ console.log((gcd(49, 35)));
             
         
             
-        
-            
-            <tr typeof="sioc:Page" about="/markups/stylus-to-css.css" id="stylus-to-css.css.stylus">
+            <tr typeof="sioc:Page" about="/markups/sass-to-css.css" id="sass-to-css.css.sass">
                 <td colspan="2">
-                    <strong>Stylus to CSS</strong>
+                    <strong>SASS to CSS</strong>
                 <td>
             </tr>
-            <tr typeof="sioc:Page" about="/markups/stylus-to-css.css">
+            <tr typeof="sioc:Page" about="/markups/sass-to-css.css">
                 <td>
-                    stylus-to-css.css.stylus
-                    <pre class="prettyprint lang-stylus">border-radius()
-    -webkit-border-radius arguments
-    -moz-border-radius arguments
-    border-radius arguments
-
-body a
-    font 12px/1.4 &quot;Lucida Grande&quot;, Arial, sans-serif
-    background black
-    color #ccc
-
-form input
-    padding 5px
-    border 1px solid
-    border-radius 5px</pre>
+                    sass-to-css.css.sass
+                    <pre class="prettyprint lang-sass">a
+  :color #fff
+  &amp;:hover
+    :color #000
+  &amp;.active
+    :background #888
+    &amp;:hover
+      :color #fff</pre>
                 </td>
                 <td>
-                    <a href="/markups/stylus-to-css.css">
-                        stylus-to-css.css
+                    <a href="/markups/sass-to-css.css">
+                        sass-to-css.css
                     </a>
-                    <pre class="prettyprint lang-stylus">body a{font:12px/1.4 &quot;Lucida Grande&quot;,Arial,sans-serif;background:#000;color:#ccc}
-form input{padding:5px;border:1px solid;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px}
+                    <pre class="prettyprint lang-sass">a {
+  color: #fff;}
+a:hover {
+  color: #000;}
+a.active {
+  background: #888;}
+a.active:hover {
+  color: #fff;}
 </pre>
                 </td>
             </tr>
+            
+        
+            
+        
+            
+        
             
         
             
@@ -622,6 +642,10 @@ form input{padding:5px;border:1px solid;-webkit-border-radius:5px;-moz-border-ra
 
 <h2 id="blog">Example Blog Posts</h2>
 <ul>
+    
+        
+    
+        
     
         
     
@@ -744,6 +768,10 @@ form input{padding:5px;border:1px solid;-webkit-border-radius:5px;-moz-border-ra
     
         
     
+        
+    
+        
+    
     <li><a href="/search?query=coffee">A dynamic search page for <em>"coffee"</em></a></li>
 </ul>
 
@@ -751,7 +779,7 @@ form input{padding:5px;border:1px solid;-webkit-border-radius:5px;-moz-border-ra
         <footer>
             <p>&copy; SSRR2012</p>
             <p style="float:right;">
-                This website was generated on 2012-06-04T07:46:50Z and has  documents
+                This website was generated on 2012-06-04T08:14:20Z and has  documents
             </p>
         </footer>
         <section id="source" class="source">

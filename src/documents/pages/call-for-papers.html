@@ -1,77 +1,84 @@
 ---
 layout: 'default'
-title: 'Getting Started'
+title: 'Call for Papers'
 ---
 
-<h1>Getting Started</h1>
+<h1>Call for Papers</h1>
 
-<div class="well">
-  <ul class="nav nav-list">
-	<li class="nav-header"><a href="#markups">Markups</a></li>
-	<% for document in @database.sortArray('title':1): %>
-	<% if document.url.indexOf('/markups') == 0: %>
-	<li><a href="#<%= document.filename %>"><%= document.title %></a></li>
-	<% end %>
-	<% end %>
-	<li class="nav-header"><a href="#blog">Example Blog Posts</a></li>
-	<li class="nav-header"><a href="#blog">Nifties</a></li>
-	<li class="nav-header"><a href="#blog">View page source</a></li>
-  </ul>
-</div>
+<h2>IEEE International Symposium on Safety, Security, and Rescue Robotics
+Nov. 5-8, 2012</h2>
+<h2>(Nov 9, 2012 Field Exercise on Casualty Care and Evacuation)</h2>
 
+<h3>Theme: 10 Years and Beyond!</h3>
 
-<h2 id="markups">Markups</h2>
-<table class="table table-bordered table-striped">
-	<thead>
-		<tr>
-			<th style="width: 50%;">Source File</th>
-			<th style="width: 50%;">Result File</th>
-		</tr>
-	</thead>
-	<tbody>
-		<% for document in @database.sortArray('title':1): %>
-			<% if document.url.indexOf('/markups') == 0: %>
-			<tr typeof="sioc:Page" about="<%= document.url %>" id="<%= document.filename %>">
-				<td colspan="2">
-					<strong><%= document.title %></strong>
-				<td>
-			</tr>
-			<tr typeof="sioc:Page" about="<%= document.url %>">
-				<td>
-					<%= document.filename %>
-					<pre class="prettyprint lang-<%= document.filename.replace(/^.*\./,'') %>"><%= (document.content or '').replace(/^\s+/,'') %></pre>
-				</td>
-				<td>
-					<a href="<%= document.url %>">
-						<%= document.url.replace(/^.*\//,'') %>
-					</a>
-					<pre class="prettyprint lang-<%= document.extension %>"><%= document.contentRendered.replace(/^\s+/,'') %></pre>
-				</td>
-			</tr>
-			<% end %>
-		<% end %>
-	</tbody>
-</table>
+<p>The 10th anniversary of the IEEE International Symposium on Safety,
+Security, and Rescue Robotics with continue its tradition of
+attracting cutting-edge papers in the theory and practice of robots
+for rapid and secure inspection of critical infrastructure, travelers,
+luggage, and paces; disaster response and recovery; humanitarian
+demining, disaster mitigation and recovery; detection of chemical,
+biological and radiological risks and operations in these dangerous
+sites; etc</p>
 
-<h2 id="blog">Example Blog Posts</h2>
-<ul>
-	<% for document in @documents: %>
-		<% if document.url.indexOf('/posts') == 0: %>
-		<li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'	if @document.url is document.url %>">
-			<a href="<%= document.url %>" property="dc:title"><%= document.title %></a>
-		</li>
-		<% end %>
-	<% end %>
-</ul>
+<p>SSRR 2012 will also serve as an entry point for researchers and
+technologists who want to learn more about SSR robotics, through
+tutorials and keynotes including
+<ol>
+  <ul>Dr. Gill Pratt, DARPA Grand Robotics Challenge</ul>
+  <ul>Dr. Richard Voyles, NSF National Robotics Initiative</ul>
+  <ul>Prof. Hajime Asama, University of Tokyo, Nuclear Decommissioning</ul>
+  <ul>Prof. Satoshi Tadokoro, Tohoku University, Retrospective of RoboCup
+Rescue Contributions</ul>
+</ol>
+The conference is co-located with Disaster City® and will host
+demonstrations organized around challenge problems (TBD), plan to
+bring your robots!
 
-<h2 id="nifties">Nifties</h2>
-<ul>
-	<% for document in @documents: %>
-		<% if document.url.indexOf('/nifty') == 0: %>
-		<li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'	if @document.url is document.url %>">
-			<a href="<%= document.url %>" property="dc:title"><%= document.title %></a>
-		</li>
-		<% end %>
-	<% end %>
-	<li><a href="/search?query=coffee">A dynamic search page for <em>"coffee"</em></a></li>
-</ul>
+Papers and participation fall into: 
+- regular papers (4-6 pages) that describe original work in SSR or
+work that can be applied to SSR domains
+- center/project papers (2-4 pages) that describe work at centers or
+active multi-institutional projects 
+- Outrageous Visions for Computing papers (2-4) that present long-term
+challenges or new ideas outside of the mainstream in computing for SSR
+robotics
+
+Topics include but are not limited to:
+Biologically inspired solutions
+Casualty assessment, care and extraction
+Chemical, biological, or radiological events
+Computer vision
+GPS-denied navigation and mapping
+Humanoid robots
+Humanitarian demining
+Human-robot interaction
+Inspection of critical infrastructure
+Manipulation
+Multi-agent coordination
+Nuclear decommissioning
+Sensing and sensor fusion
+SLAM in extreme environments
+Structural assessment
+Telemedicine
+Unmanned ground, aerial, and marine vehicles
+Urban search and rescue 
+Wildland fire fighting
+
+In addition, SSRR 2012 encourages the submission of "non-traditional"
+papers which contribute to understanding robot systems for Public
+Safety but may not have results in a Public Safety domain. 
+
+SSRR 2012 will have four paper awards:
+Best Paper Award
+Best Student Paper Award
+Best Non-Traditional Robotics Paper Award
+Outrageous Visions for Computing in SSRR
+
+Important Dates:
+
+Jul 30 Submission of proposals for tutorials, special sessions
+Aug 15 Submission of regular papers, center/project papers, and
+visioning papers
+Oct 1 Notification of acceptance
+Oct 1 Submission of 2 page Late Breaking Reports
+Oct 22 Submission of final papers
