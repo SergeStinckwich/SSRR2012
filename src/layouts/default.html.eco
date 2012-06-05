@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lange="en">
+<html lang="en">
 <head>
 	<!-- Meta -->
 	<meta charset="utf-8" />
@@ -9,6 +9,7 @@
 	<title>SSRR 2012</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
+        <base href="http://sergestinckwich.github.com/SSRR2012/">
 
 	<!-- Icons -->
 	<link rel="shortcut icon" href="images/favicon.ico">
@@ -38,7 +39,7 @@
 	<div class="navbar navbar-fixed-top">
 		<div class="navbar-inner">
 			<div class="container">
-				<a class="brand" href="">SSRR 2012</a>
+				<a class="brand" href="/">SSRR 2012</a>
 				<ul class="nav">
 					<% for document in @documents: %>
 						<% if document.url.indexOf('/pages') == 0: %>
