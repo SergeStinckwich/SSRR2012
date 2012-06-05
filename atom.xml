@@ -3,7 +3,7 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2012-06-05T14:34:09Z</updated>
+    <updated>2012-06-05T14:57:46Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
@@ -64,7 +64,7 @@
                 <updated>2012-06-04T07:29:38Z</updated>
                 <id>http://balupton.com/posts/bonjour.html</id>
                 <content type="html">&lt;!DOCTYPE html&gt;
-&lt;html lange=&quot;en&quot;&gt;
+&lt;html lang=&quot;en&quot;&gt;
 &lt;head&gt;
     &lt;!-- Meta --&gt;
     &lt;meta charset=&quot;utf-8&quot; /&gt;
@@ -74,6 +74,7 @@
     &lt;title&gt;SSRR 2012&lt;/title&gt;
     &lt;meta name=&quot;description&quot; content=&quot;&quot;&gt;
     &lt;meta name=&quot;author&quot; content=&quot;&quot;&gt;
+        &lt;base href=&quot;http://sergestinckwich.github.com/SSRR2012/&quot;&gt;
 
     &lt;!-- Icons --&gt;
     &lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
@@ -103,38 +104,38 @@
     &lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
         &lt;div class=&quot;navbar-inner&quot;&gt;
             &lt;div class=&quot;container&quot;&gt;
-                &lt;a class=&quot;brand&quot; href=&quot;&quot;&gt;SSRR 2012&lt;/a&gt;
+                &lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;SSRR 2012&lt;/a&gt;
                 &lt;ul class=&quot;nav&quot;&gt;
                     
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/important-dates.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;SSRR2012/pages/important-dates.html&quot; property=&quot;dc:title&quot;&gt;Important Dates&lt;/a&gt;
+                            &lt;a href=&quot;/pages/important-dates.html&quot; property=&quot;dc:title&quot;&gt;Important Dates&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/registration.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;SSRR2012/pages/registration.html&quot; property=&quot;dc:title&quot;&gt;Registration&lt;/a&gt;
+                            &lt;a href=&quot;/pages/registration.html&quot; property=&quot;dc:title&quot;&gt;Registration&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/venue.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;SSRR2012/pages/venue.html&quot; property=&quot;dc:title&quot;&gt;Venue&lt;/a&gt;
+                            &lt;a href=&quot;/pages/venue.html&quot; property=&quot;dc:title&quot;&gt;Venue&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/call-for-papers.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;SSRR2012/pages/call-for-papers.html&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
+                            &lt;a href=&quot;/pages/call-for-papers.html&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/committee.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;SSRR2012/pages/committee.html&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
+                            &lt;a href=&quot;/pages/committee.html&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -197,7 +198,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; SSRR2012&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-06-05T14:34:09Z and has  documents
+                This website was generated on 2012-06-05T14:57:45Z and has  documents
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
@@ -227,7 +228,7 @@ Bonjour **world**&lt;/pre&gt;
                 <updated>2012-06-04T07:29:38Z</updated>
                 <id>http://balupton.com/posts/hello.html</id>
                 <content type="html">&lt;!DOCTYPE html&gt;
-&lt;html lange=&quot;en&quot;&gt;
+&lt;html lang=&quot;en&quot;&gt;
 &lt;head&gt;
     &lt;!-- Meta --&gt;
     &lt;meta charset=&quot;utf-8&quot; /&gt;
@@ -237,6 +238,7 @@ Bonjour **world**&lt;/pre&gt;
     &lt;title&gt;SSRR 2012&lt;/title&gt;
     &lt;meta name=&quot;description&quot; content=&quot;&quot;&gt;
     &lt;meta name=&quot;author&quot; content=&quot;&quot;&gt;
+        &lt;base href=&quot;http://sergestinckwich.github.com/SSRR2012/&quot;&gt;
 
     &lt;!-- Icons --&gt;
     &lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
@@ -266,38 +268,38 @@ Bonjour **world**&lt;/pre&gt;
     &lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
         &lt;div class=&quot;navbar-inner&quot;&gt;
             &lt;div class=&quot;container&quot;&gt;
-                &lt;a class=&quot;brand&quot; href=&quot;&quot;&gt;SSRR 2012&lt;/a&gt;
+                &lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;SSRR 2012&lt;/a&gt;
                 &lt;ul class=&quot;nav&quot;&gt;
                     
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/important-dates.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;SSRR2012/pages/important-dates.html&quot; property=&quot;dc:title&quot;&gt;Important Dates&lt;/a&gt;
+                            &lt;a href=&quot;/pages/important-dates.html&quot; property=&quot;dc:title&quot;&gt;Important Dates&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/registration.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;SSRR2012/pages/registration.html&quot; property=&quot;dc:title&quot;&gt;Registration&lt;/a&gt;
+                            &lt;a href=&quot;/pages/registration.html&quot; property=&quot;dc:title&quot;&gt;Registration&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/venue.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;SSRR2012/pages/venue.html&quot; property=&quot;dc:title&quot;&gt;Venue&lt;/a&gt;
+                            &lt;a href=&quot;/pages/venue.html&quot; property=&quot;dc:title&quot;&gt;Venue&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/call-for-papers.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;SSRR2012/pages/call-for-papers.html&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
+                            &lt;a href=&quot;/pages/call-for-papers.html&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/committee.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;SSRR2012/pages/committee.html&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
+                            &lt;a href=&quot;/pages/committee.html&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -360,7 +362,7 @@ Bonjour **world**&lt;/pre&gt;
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; SSRR2012&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-06-05T14:34:09Z and has  documents
+                This website was generated on 2012-06-05T14:57:45Z and has  documents
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
