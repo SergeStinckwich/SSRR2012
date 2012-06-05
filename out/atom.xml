@@ -3,7 +3,7 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2012-06-05T14:19:49Z</updated>
+    <updated>2012-06-05T14:23:19Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
@@ -88,16 +88,16 @@
 
     &lt;!-- Styles --&gt;
     &lt;link href=&quot;styles/style.css&quot; rel=&quot;stylesheet&quot;/&gt;
-    &lt;link href=&quot;/vendor/prettify.css&quot; rel=&quot;stylesheet&quot;/&gt;
-    &lt;link href=&quot;/vendor/responsive.min.css&quot; rel=&quot;stylesheet&quot;/&gt;
+    &lt;link href=&quot;vendor/prettify.css&quot; rel=&quot;stylesheet&quot;/&gt;
+    &lt;link href=&quot;vendor/responsive.min.css&quot; rel=&quot;stylesheet&quot;/&gt;
     
 &lt;/head&gt;
 &lt;body&gt;
     &lt;!-- Scripts --&gt;
-    &lt;script src=&quot;/vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;
-    &lt;script src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;vendor/prettify.js&quot;&gt;&lt;/script&gt;
     
-    &lt;script src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;scripts/script.js&quot;&gt;&lt;/script&gt;
 
     &lt;!-- Markup --&gt;
     &lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
@@ -197,7 +197,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; SSRR2012&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-06-05T14:19:48Z and has  documents
+                This website was generated on 2012-06-05T14:23:19Z and has  documents
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
@@ -251,16 +251,16 @@ Bonjour **world**&lt;/pre&gt;
 
     &lt;!-- Styles --&gt;
     &lt;link href=&quot;styles/style.css&quot; rel=&quot;stylesheet&quot;/&gt;
-    &lt;link href=&quot;/vendor/prettify.css&quot; rel=&quot;stylesheet&quot;/&gt;
-    &lt;link href=&quot;/vendor/responsive.min.css&quot; rel=&quot;stylesheet&quot;/&gt;
+    &lt;link href=&quot;vendor/prettify.css&quot; rel=&quot;stylesheet&quot;/&gt;
+    &lt;link href=&quot;vendor/responsive.min.css&quot; rel=&quot;stylesheet&quot;/&gt;
     
 &lt;/head&gt;
 &lt;body&gt;
     &lt;!-- Scripts --&gt;
-    &lt;script src=&quot;/vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;
-    &lt;script src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;vendor/prettify.js&quot;&gt;&lt;/script&gt;
     
-    &lt;script src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;scripts/script.js&quot;&gt;&lt;/script&gt;
 
     &lt;!-- Markup --&gt;
     &lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
@@ -360,7 +360,7 @@ Bonjour **world**&lt;/pre&gt;
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; SSRR2012&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-06-05T14:19:48Z and has  documents
+                This website was generated on 2012-06-05T14:23:19Z and has  documents
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
