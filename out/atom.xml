@@ -3,7 +3,7 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2012-06-05T14:30:53Z</updated>
+    <updated>2012-06-05T14:34:09Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
@@ -110,31 +110,31 @@
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/important-dates.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/important-dates.html&quot; property=&quot;dc:title&quot;&gt;Important Dates&lt;/a&gt;
+                            &lt;a href=&quot;SSRR2012/pages/important-dates.html&quot; property=&quot;dc:title&quot;&gt;Important Dates&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/registration.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/registration.html&quot; property=&quot;dc:title&quot;&gt;Registration&lt;/a&gt;
+                            &lt;a href=&quot;SSRR2012/pages/registration.html&quot; property=&quot;dc:title&quot;&gt;Registration&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/venue.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/venue.html&quot; property=&quot;dc:title&quot;&gt;Venue&lt;/a&gt;
+                            &lt;a href=&quot;SSRR2012/pages/venue.html&quot; property=&quot;dc:title&quot;&gt;Venue&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/call-for-papers.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/call-for-papers.html&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
+                            &lt;a href=&quot;SSRR2012/pages/call-for-papers.html&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/committee.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/committee.html&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
+                            &lt;a href=&quot;SSRR2012/pages/committee.html&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -197,7 +197,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; SSRR2012&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-06-05T14:30:52Z and has  documents
+                This website was generated on 2012-06-05T14:34:09Z and has  documents
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
@@ -273,31 +273,31 @@ Bonjour **world**&lt;/pre&gt;
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/important-dates.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/important-dates.html&quot; property=&quot;dc:title&quot;&gt;Important Dates&lt;/a&gt;
+                            &lt;a href=&quot;SSRR2012/pages/important-dates.html&quot; property=&quot;dc:title&quot;&gt;Important Dates&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/registration.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/registration.html&quot; property=&quot;dc:title&quot;&gt;Registration&lt;/a&gt;
+                            &lt;a href=&quot;SSRR2012/pages/registration.html&quot; property=&quot;dc:title&quot;&gt;Registration&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/venue.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/venue.html&quot; property=&quot;dc:title&quot;&gt;Venue&lt;/a&gt;
+                            &lt;a href=&quot;SSRR2012/pages/venue.html&quot; property=&quot;dc:title&quot;&gt;Venue&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/call-for-papers.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/call-for-papers.html&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
+                            &lt;a href=&quot;SSRR2012/pages/call-for-papers.html&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/committee.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/committee.html&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
+                            &lt;a href=&quot;SSRR2012/pages/committee.html&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -360,7 +360,7 @@ Bonjour **world**&lt;/pre&gt;
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; SSRR2012&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-06-05T14:30:52Z and has  documents
+                This website was generated on 2012-06-05T14:34:09Z and has  documents
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
