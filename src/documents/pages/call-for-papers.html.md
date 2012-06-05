@@ -7,7 +7,7 @@ title: 'Call for Papers'
 
 ##IEEE International Symposium on Safety, Security, and Rescue Robotics
 ##Nov. 5-8, 2012
-###(Nov 9, 2012 Field Exercise on Casualty Care and Evacuation)
+##(Nov 9, 2012 Field Exercise on Casualty Care and Evacuation)
 
 ##Theme: 10 Years and Beyond!
 
@@ -60,10 +60,10 @@ SSRR 2012 will have four paper awards:
  * Best Non-Traditional Robotics Paper Award
  * Outrageous Visions for Computing in SSRR
 
-Important Dates:
+###Important Dates
 
- * Jul 30 Submission of proposals for tutorials, special sessions
- * Aug 15 Submission of regular papers, center/project papers, and visioning papers
- * Oct 1 Notification of acceptance
- * Oct 1 Submission of 2 page Late Breaking Reports
- * Oct 22 Submission of final papers
+ * **Jul 30, 2012** Submission of proposals for tutorials, special sessions
+ * **Aug 15, 2012** Submission of regular papers, center/project papers, and visioning papers
+ * **Oct 1, 2012** Notification of acceptance
+ * **Oct 1, 2012** Submission of 2 page Late Breaking Reports
+ * **Oct 22, 2012** Submission of final papers
