@@ -62,13 +62,6 @@
 				This website was generated on <%= @site.date.toIsoDateString() %> and has <%= @site.totalDocuments %> documents
 			</p>
 		</footer>
-		<section id="source" class="source">
-			<h3 id="source-header"><a>Click to view this page's source</a></h3>
-			<div id="source-code">
-				<div><%= 'src/'+@document.relativePath %></div>
-				<pre class="prettyprint"><%= @document.data %></pre>
-			</div>
-		</section>
 	</div><!-- /container -->
 </body>
 </html>
