@@ -3,7 +3,7 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2012-06-05T15:16:21Z</updated>
+    <updated>2012-06-05T15:27:47Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
@@ -198,22 +198,9 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; SSRR2012&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-06-05T15:16:20Z and has  documents
+                This website was generated on 2012-06-05T15:27:46Z and has  documents
             &lt;/p&gt;
         &lt;/footer&gt;
-        &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
-            &lt;h3 id=&quot;source-header&quot;&gt;&lt;a&gt;Click to view this page's source&lt;/a&gt;&lt;/h3&gt;
-            &lt;div id=&quot;source-code&quot;&gt;
-                &lt;div&gt;src/posts/bonjour.html.md&lt;/div&gt;
-                &lt;pre class=&quot;prettyprint&quot;&gt;---
-title: 'Bonjour'
-layout: 'post'
-tags: ['greeting','french']
----
-
-Bonjour **world**&lt;/pre&gt;
-            &lt;/div&gt;
-        &lt;/section&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
 &lt;/body&gt;
 &lt;/html&gt;
@@ -362,22 +349,9 @@ Bonjour **world**&lt;/pre&gt;
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; SSRR2012&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-06-05T15:16:20Z and has  documents
+                This website was generated on 2012-06-05T15:27:46Z and has  documents
             &lt;/p&gt;
         &lt;/footer&gt;
-        &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
-            &lt;h3 id=&quot;source-header&quot;&gt;&lt;a&gt;Click to view this page's source&lt;/a&gt;&lt;/h3&gt;
-            &lt;div id=&quot;source-code&quot;&gt;
-                &lt;div&gt;src/posts/hello.html.md&lt;/div&gt;
-                &lt;pre class=&quot;prettyprint&quot;&gt;---
-title: 'Hello'
-layout: 'post'
-tags: ['greeting','english']
----
-
-Hello **world**&lt;/pre&gt;
-            &lt;/div&gt;
-        &lt;/section&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
 &lt;/body&gt;
 &lt;/html&gt;
