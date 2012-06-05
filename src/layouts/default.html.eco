@@ -38,12 +38,12 @@
 	<div class="navbar navbar-fixed-top">
 		<div class="navbar-inner">
 			<div class="container">
-				<a class="brand" href="/">SSRR 2012</a>
+				<a class="brand" href="SSRR2012/">SSRR 2012</a>
 				<ul class="nav">
 					<% for document in @documents: %>
 						<% if document.url.indexOf('/pages') == 0: %>
 						<li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'  if @document.url is document.url %>">
-							<a href="<%= document.url %>" property="dc:title"><%= document.title %></a>
+							<a href="SSRR2012/<%= document.url %>" property="dc:title"><%= document.title %></a>
 						</li>
 						<% end %>
 					<% end %>
