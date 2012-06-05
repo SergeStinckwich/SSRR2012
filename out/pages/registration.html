@@ -74,7 +74,7 @@
                         
                     
                         
-                        <li typeof="sioc:Page" about="/pages/registration.html" class="">
+                        <li typeof="sioc:Page" about="/pages/registration.html" class="active">
                             <a href="/pages/registration.html" property="dc:title">Registration</a>
                         </li>
                         
@@ -145,7 +145,7 @@
     </div>
     <div class="container">
         <section id="content" class="content">
-            <article typeof="sioc:Post" about="/nifty/client-side-editing.html"><h1 property="title">Client-Side Editing Wooo!</h1><div property="description">You can edit this with content-editable, and it will save automatically. So when you refresh, it'll be what you saved it as.<div><br></div><div>To edit it. Press alt+shift+e or ctrl+shift+e (it must be in that order, can't be e first for example). Pressing that will toggle edit mode. When in edit more, just place your mouse cursor over the content you want to edit, and it will edit it for you.When you leave the field, it will perform an AJAX request, save the changes, and regenerate your website.</div></div></article>
+            <h1>Registration</h1>
         </section>
         <footer>
             <p>&copy; SSRR2012</p>
@@ -156,16 +156,14 @@
         <section id="source" class="source">
             <h3 id="source-header"><a>Click to view this page's source</a></h3>
             <div id="source-code">
-                <div>src/nifty/client-side-editing.html.coffee</div>
-                <pre class="prettyprint">### coffee
-layout: &quot;default&quot;
-title: &quot;Client-Side Editing Wooo!&quot;
-description: &quot;You can edit this with content-editable, and it will save automatically. So when you refresh, it'll be what you saved it as.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To edit it. Press alt+shift+e or ctrl+shift+e (it must be in that order, can't be e first for example). Pressing that will toggle edit mode. When in edit more, just place your mouse cursor over the content you want to edit, and it will edit it for you.When you leave the field, it will perform an AJAX request, save the changes, and regenerate your website.&lt;/div&gt;&quot;
-###
+                <div>src/pages/registration.html.md</div>
+                <pre class="prettyprint">---
+layout: 'default'
+title: 'Registration'
+---
 
-article 'typeof': 'sioc:Post', about: @document.url, -&gt;
-    h1 property: 'title', -&gt; @document.title
-    div property: 'description', -&gt; @document.description
+#Registration
+
 </pre>
             </div>
         </section>
