@@ -55,6 +55,7 @@ Topics include but are not limited to:
 In addition, SSRR 2012 encourages the submission of "non-traditional" papers which contribute to understanding robot systems for Public Safety but may not have results in a Public Safety domain. 
 
 SSRR 2012 will have four paper awards:
+
  * Best Paper Award
  * Best Student Paper Award
  * Best Non-Traditional Robotics Paper Award
