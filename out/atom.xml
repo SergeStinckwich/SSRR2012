@@ -3,7 +3,7 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2012-06-06T11:21:56Z</updated>
+    <updated>2012-06-06T11:26:29Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
@@ -182,6 +182,8 @@
                   &lt;div class=&quot;row&quot; style=&quot;text-align:right;&quot;&gt;
                     &lt;img src=&quot;images/IEEE_MB_Blue.jpg&quot;
                     alt=&quot;&quot;/&gt;
+                    &lt;img src=&quot;images/RaA_logo.jpg&quot;
+                    alt=&quot;&quot;/&gt;
                   &lt;/div class&gt;
             &lt;div id=&quot;post&quot; class=&quot;post&quot;&gt;
     &lt;p&gt;Bonjour &lt;strong&gt;world&lt;/strong&gt;&lt;/p&gt;
@@ -192,9 +194,9 @@
 &lt;/footer&gt;
         &lt;/section&gt;
         &lt;footer&gt;
-            &lt;p&gt;&amp;copy; SSRR2012&lt;/p&gt;
+            &lt;p&gt;&amp;copy; 2012 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-06-06T11:21:55Z and has  documents
+                This website was generated on 2012-06-06T11:26:29Z.
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -331,6 +333,8 @@
                   &lt;div class=&quot;row&quot; style=&quot;text-align:right;&quot;&gt;
                     &lt;img src=&quot;images/IEEE_MB_Blue.jpg&quot;
                     alt=&quot;&quot;/&gt;
+                    &lt;img src=&quot;images/RaA_logo.jpg&quot;
+                    alt=&quot;&quot;/&gt;
                   &lt;/div class&gt;
             &lt;div id=&quot;post&quot; class=&quot;post&quot;&gt;
     &lt;p&gt;Hello &lt;strong&gt;world&lt;/strong&gt;&lt;/p&gt;
@@ -341,9 +345,9 @@
 &lt;/footer&gt;
         &lt;/section&gt;
         &lt;footer&gt;
-            &lt;p&gt;&amp;copy; SSRR2012&lt;/p&gt;
+            &lt;p&gt;&amp;copy; 2012 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-06-06T11:21:55Z and has  documents
+                This website was generated on 2012-06-06T11:26:29Z.
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;

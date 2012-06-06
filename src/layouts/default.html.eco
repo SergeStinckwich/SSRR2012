@@ -57,13 +57,15 @@
                   <div class="row" style="text-align:right;">
                     <img src="images/IEEE_MB_Blue.jpg"
                     alt=""/>
+                    <img src="images/RaA_logo.jpg"
+                    alt=""/>
                   </div class>
 			<%- @content %>
 		</section>
 		<footer>
-			<p>&copy; SSRR2012</p>
+			<p>&copy; 2012 SSRR</p>
 			<p style="float:right;">
-				This website was generated on <%= @site.date.toIsoDateString() %> and has <%= @site.totalDocuments %> documents
+				This website was generated on <%= @site.date.toIsoDateString() %>.
 			</p>
 		</footer>
 	</div><!-- /container -->
