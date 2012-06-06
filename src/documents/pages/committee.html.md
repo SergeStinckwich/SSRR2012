@@ -14,5 +14,5 @@ title: 'Commitee'
 ###Regional Program Chairs
  * Serge Stinckwich (Europe)
 
-###Program Committee
- * XXX
+###Program Committee (TBA)
+

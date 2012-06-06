@@ -3,15 +3,13 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2012-06-06T12:43:52Z</updated>
+    <updated>2012-06-06T15:37:00Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
         <email>b@lupton.cc</email>
     </author>
 
-    
-        
     
         
     
@@ -106,6 +104,12 @@
                 &lt;ul class=&quot;nav&quot;&gt;
                     
                         
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/committee.html&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;pages/committee.html&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
+                        &lt;/li&gt;
+                        
+                    
+                        
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/call-for-papers.html&quot; class=&quot;&quot;&gt;
@@ -122,12 +126,6 @@
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/venue.html&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;pages/venue.html&quot; property=&quot;dc:title&quot;&gt;Venue&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                    
-                        
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/committee.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;pages/committee.html&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -196,7 +194,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2012 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-06-06T12:43:51Z.
+                This website was generated on 2012-06-06T15:37:00Z.
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -257,6 +255,12 @@
                 &lt;ul class=&quot;nav&quot;&gt;
                     
                         
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/committee.html&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;pages/committee.html&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
+                        &lt;/li&gt;
+                        
+                    
+                        
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/call-for-papers.html&quot; class=&quot;&quot;&gt;
@@ -273,12 +277,6 @@
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/venue.html&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;pages/venue.html&quot; property=&quot;dc:title&quot;&gt;Venue&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                    
-                        
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/committee.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;pages/committee.html&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -347,7 +345,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2012 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-06-06T12:43:51Z.
+                This website was generated on 2012-06-06T15:37:00Z.
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -355,6 +353,8 @@
 &lt;/html&gt;
 </content>
             </entry>
+        
+    
         
     
         
