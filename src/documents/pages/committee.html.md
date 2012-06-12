@@ -6,13 +6,22 @@ title: 'Commitee'
 ##SSRR2012 Committee
 
 ###General chair
- * Robin Murphy (Texas A&M University, USA)
+ * Robin Murphy, Texas A&M, USA
 
 ###Program chair
- * Alexander Kleiner (Germany)
+ * Alexander Kleiner, Linkoping University, Germany
  
 ###Regional Program Chairs
- * Serge Stinckwich (Europe)
+ 
+ * Hideyuki Tsukagoshi, Tokyo Institute of Technology, Japan (Asia and Oceania) 
+ * Serge Stinckwich, IRD, France (Europe)
+ * Kostas Daniilidis, Penn, USA (Americas)
 
-###Program Committee (TBA)
+###Treasurer:
+ * Geert-Jan Kruijff, DFKI Gmbh, Germany (tentative)
 
+###Publication Chair
+ * Howie Choset, CMU, USA
+
+###Local Arrangements and Publicity Chair
+ * Dylan Shell, Texas A&M, USA
