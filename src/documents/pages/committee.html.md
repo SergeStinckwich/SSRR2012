@@ -18,7 +18,7 @@ title: 'Commitee'
  * Kostas Daniilidis, Penn, USA (Americas)
 
 ###Treasurer:
- * Geert-Jan Kruijff, DFKI Gmbh, Germany (tentative)
+ * Geert-Jan Kruijff, DFKI Gmbh, Germany
 
 ###Publication Chair
  * Howie Choset, CMU, USA
