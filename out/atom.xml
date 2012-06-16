@@ -3,13 +3,15 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2012-06-14T22:15:30Z</updated>
+    <updated>2012-06-16T02:20:04Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
         <email>b@lupton.cc</email>
     </author>
 
+    
+        
     
         
     
@@ -66,7 +68,7 @@
     &lt;title&gt;SSRR 2012&lt;/title&gt;
     &lt;meta name=&quot;description&quot; content=&quot;&quot;&gt;
     &lt;meta name=&quot;author&quot; content=&quot;&quot;&gt;
-        &lt;base href=&quot;http://sergestinckwich.github.com/SSRR2012/&quot;&gt;
+        &lt;base href=&quot;http://www.andrew.cmu.edu/org/SSRR2012/&quot;&gt;
 
     &lt;!-- Icons --&gt;
     &lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
@@ -178,7 +180,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2012 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-06-14T22:15:29Z.
+                This website was generated on 2012-06-16T02:20:04Z.
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -205,7 +207,7 @@
     &lt;title&gt;SSRR 2012&lt;/title&gt;
     &lt;meta name=&quot;description&quot; content=&quot;&quot;&gt;
     &lt;meta name=&quot;author&quot; content=&quot;&quot;&gt;
-        &lt;base href=&quot;http://sergestinckwich.github.com/SSRR2012/&quot;&gt;
+        &lt;base href=&quot;http://www.andrew.cmu.edu/org/SSRR2012/&quot;&gt;
 
     &lt;!-- Icons --&gt;
     &lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
@@ -317,7 +319,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2012 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-06-14T22:15:29Z.
+                This website was generated on 2012-06-16T02:20:04Z.
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -325,8 +327,6 @@
 &lt;/html&gt;
 </content>
             </entry>
-        
-    
         
     
         
