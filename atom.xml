@@ -3,7 +3,7 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2012-06-24T10:02:50Z</updated>
+    <updated>2012-06-26T04:28:02Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
@@ -66,8 +66,10 @@
     &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
     &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
     &lt;title&gt;SSRR 2012&lt;/title&gt;
-    &lt;meta name=&quot;description&quot; content=&quot;&quot;&gt;
-    &lt;meta name=&quot;author&quot; content=&quot;&quot;&gt;
+    &lt;meta name=&quot;description&quot; content=&quot;SSRR 2012 - 10th IEEE
+                                          International Symposium on
+                                          Safety, Security and Rescue Robotics&quot;&gt;
+    &lt;meta name=&quot;author&quot; content=&quot;Serge Stinckwich&quot;&gt;
         &lt;base href=&quot;http://sergestinckwich.github.com/SSRR2012/&quot;&gt;
 
     &lt;!-- Icons --&gt;
@@ -179,7 +181,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2012 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-06-24T10:02:50Z.
+                This website was generated on 2012-06-26T04:28:02Z.
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -204,8 +206,10 @@
     &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
     &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
     &lt;title&gt;SSRR 2012&lt;/title&gt;
-    &lt;meta name=&quot;description&quot; content=&quot;&quot;&gt;
-    &lt;meta name=&quot;author&quot; content=&quot;&quot;&gt;
+    &lt;meta name=&quot;description&quot; content=&quot;SSRR 2012 - 10th IEEE
+                                          International Symposium on
+                                          Safety, Security and Rescue Robotics&quot;&gt;
+    &lt;meta name=&quot;author&quot; content=&quot;Serge Stinckwich&quot;&gt;
         &lt;base href=&quot;http://sergestinckwich.github.com/SSRR2012/&quot;&gt;
 
     &lt;!-- Icons --&gt;
@@ -317,7 +321,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2012 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-06-24T10:02:50Z.
+                This website was generated on 2012-06-26T04:28:02Z.
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
