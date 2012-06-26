@@ -11,7 +11,7 @@
                                           International Symposium on
                                           Safety, Security and Rescue Robotics">
 	<meta name="author" content="Serge Stinckwich">
-<!--        <base href="http://www.andrew.cmu.edu/org/SSRR2012/">  -->
+        <!--        <base href="http://www.andrew.cmu.edu/org/SSRR2012/">  -->
 
 	<!-- Icons -->
 	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
@@ -24,28 +24,28 @@
 	<![endif]-->
 
 	<!-- Styles -->
-	<link href="styles/style.css" rel="stylesheet"/>
-	<link href="vendor/prettify.css" rel="stylesheet"/>
-	<link href="vendor/responsive.min.css" rel="stylesheet"/>
+	<link href="/styles/style.css" rel="stylesheet"/>
+	<link href="/vendor/prettify.css" rel="stylesheet"/>
+	<link href="/vendor/responsive.min.css" rel="stylesheet"/>
 	<%- @blocks.styles.join('') %>
 </head>
 <body>
 	<!-- Scripts -->
-	<script src="vendor/jquery-1.6.4.min.js"></script>
-	<script src="vendor/prettify.js"></script>
+	<script src="/vendor/jquery-1.6.4.min.js"></script>
+	<script src="/vendor/prettify.js"></script>
 	<%- @blocks.scripts.join('') %>
-	<script src="scripts/script.js"></script>
+	<script src="/scripts/script.js"></script>
 
 	<!-- Markup -->
 	<div class="navbar navbar-fixed-top">
 		<div class="navbar-inner">
 			<div class="container">
-				<a class="brand" href="">SSRR 2012</a>
+				<a class="brand" href="/">SSRR 2012</a>
 				<ul class="nav">
 					<% for document in @documents: %>
 						<% if document.url.indexOf('/pages') == 0: %>
 						<li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'  if @document.url is document.url %>">
-							<a href="<%= document.url.slice(1) %>" property="dc:title"><%= document.title %></a>
+							<a href="<%= document.url %>" property="dc:title"><%= document.title %></a>
 						</li>
 						<% end %>
 					<% end %>
