@@ -9,7 +9,7 @@ title: 'Commitee'
  * Robin Murphy, Texas A&M, USA
 
 ###Program chair
- * Alexander Kleiner, Linkoping University, Germany
+ * Alexander Kleiner, Linkoping University, Sweden
  
 ###Regional Program Chairs
  
