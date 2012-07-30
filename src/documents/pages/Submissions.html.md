@@ -12,6 +12,9 @@ No-show paper will not be included in IEEE Xplores.
 Full Papers should be submitted electronically in PDF format. Six camera-ready pages including figures are allowed for each paper.
 Robot Demonstrations are welcome and will be incorporated into the program if accepted. Please submit a one page description of how your demonstration will be compelling for safety, security, or rescue robot developers and users to see, along with images and a video of the demonstration (MPEG files up to 10 MB).
 
+* Selected papers will appear in IEEExplore.
+* Outstanding papers with field results will be invited to the special issue of Journal of Field Robotics on SSRR.
+
 #Paper Templates
 
 Please follow one of the templates below closely. Papers failing to meet the correct format will be rejected.
