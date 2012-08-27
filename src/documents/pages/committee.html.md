@@ -27,100 +27,87 @@ title: 'Commitee'
  * Dylan Shell, Texas A&M, USA
 
 ###Program Committee
- * Abdel-Illah Mouaddib
- * Adnan Ansar		
- * Ahmad Byagowi
- * Alessandro Farinelli
- * Amir Soltanzadeh 
- * Anastasios Mourikis
- * Andreas Hertle
- * Ani Hsieh
- * Antonis Argyros
- * Atsushi Yamashita
- * Aveek Das
- * Ayanna Howard
- * Bui Trung Thanh
- * Chris Scrapper
- * Christian Dornhege
- * Christopher Geyer		
- * Cindy Bethel
- * Daniele Nardi
- * David Capelleri
- * Dirk Holz
- * Evangelos Papadopoulos
- * Fiora Pirri
- * Fredrik Heintz
- * Geert De Cubber
- * Geert-Jan Kruijff
- * Gen Endo
- * Gerald Steinbauer
- * Gian Luca Mariottini
- * Gianpaolo Conte
- * Giovanni Muscato
- * Hartmut Surmann
- * Hiroaki Nakanishi
- * Hisanori Amano
- * Hitoshi Kimura
- * Jana Kosecka
- * Jane Mulligan
- * Jose Neira
- * Joshua Peschel
- * Kazunori Ohno
- * Kazuyuki Ito
- * Keiji Nagatani
- * Ken Whitebread
- * Kingsley Fregene
- * Luca Iocchi
- * Margarita Chli
- * Mariusz Wzorek
- * Markus Vincze
- * Masahiko Onosato
- * Matthew Dailey
- * Nikos Papanikolopoulos
- * Nima Moshtagh
- * Nobuhiro Ito
- * Noury Bouraqadi
- * Oleg Naroditsky
- * Paul Oh
- * Paul White
- * Pham Cong Duc
- * Piotr Rudol
- * Quirin Hamp
- * Raimund Edlinger
- * Rodrigo Ventura
- * Rui Rocha
- * Ryuichi Hodoshima
- * Savvas Loizou
- * Simon Lacroix
- * Sören Schwertfeger
- * Stefan Kohlbrecher
- * Stefano Carpin
- * Takashi Tsubouchi
- * Tetsushi Kamegawa
- * Tetsuya Kimura
- * Tetsuya Kinugasa
- * Vasek Hlavac
- * Volkan Isler
- * Woo Sub Lee
- * Yvan Baudoin
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ * Abdel-Illah Mouaddib, France
+ * Adnan Ansar, USA
+ * Ahmad Byagowi, USA
+ * Alessandro Farinelli, UK
+ * Amir Soltanzadeh, Iran
+ * Anastasios Mourikis, USA
+ * Andreas Hertle, Germany
+ * Ani Hsieh, USA
+ * Antonis Argyros, Greece
+ * Atsushi Yamashita, Japan
+ * Aveek Das, USA
+ * Ayanna Howard, USA
+ * Bui Trung Thanh, Vietnam
+ * Chris Scrapper, USA
+ * Christian Dornhege, Germany
+ * Christopher Geyer, USA
+ * Cindy Bethel, USA
+ * Cyril Stachniss, Germany
+ * Daniele Nardi, Italy
+ * David Capelleri, USA
+ * Dirk Holz, Germany
+ * Evangelos Papadopoulos, Greece
+ * Fiora Pirri, Italy
+ * Fredrik Heintz, Sweden
+ * Fumitoshi Matsuno, Japan
+ * Geert De Cubber, Belgium
+ * Geert-Jan Kruijff, Germany
+ * Gen Endo, Japan
+ * Gerald Steinbauer, Austria
+ * Gian Luca Mariottini, USA
+ * Gianpaolo Conte, Sweden
+ * Giovanni Muscato, Italy
+ * Hartmut Surmann, Germany
+ * Hiroaki Nakanishi, Japan
+ * Hisanori Amano, Japan
+ * Hitoshi Kimura, Japan
+ * Jana Kosecka, USA
+ * Jane Mulligan, USA
+ * Johannes Pellenz, Germany 
+ * Jose Neira, Spain
+ * Joshua Peschel, USA
+ * Julie Adams, USA
+ * Katia Sycara, USA
+ * Kazunori Ohno, Japan
+ * Kazuyuki Ito, Japan
+ * Keiji Nagatani, Japan
+ * Ken Whitebread, USA
+ * Kingsley Fregene, USA
+ * Luca Iocchi, Italy
+ * Matthijs Spaan, Portugal
+ * Margarita Chli, Switzerland
+ * Mariusz Wzorek, Sweden
+ * Markus Vincze, Austria
+ * Masahiko Onosato, Japan
+ * Matthew Dailey, Thailand
+ * Nikos Papanikolopoulos, USA
+ * Nima Moshtagh, USA
+ * Nobuhiro Ito, Japan
+ * Noury Bouraqadi, France
+ * Oleg Naroditsky, USA
+ * Paul Oh, USA
+ * Paul White, USA
+ * Pham Cong Duc, France
+ * Piotr Rudol, Sweden
+ * Quirin Hamp, Germany
+ * Raimund Edlinger, Austria
+ * Rodrigo Ventura, Portugal
+ * Rui Rocha, Portugal
+ * Ryuichi Hodoshima, Japan
+ * Savvas Loizou, Cyprus
+ * Simon Lacroix, France
+ * Sören Schwertfeger, Germany
+ * Stefan Kohlbrecher, Germany
+ * Stefano Carpin, USA
+ * Takashi Tsubouchi, Japan
+ * Tetsushi Kamegawa, Japan
+ * Tetsuya Kimura, Japan
+ * Tetsuya Kinugasa, Japan
+ * Vasek Hlavac, Czech Republic
+ * Vasilios Morellas, USA
+ * Volkan Isler, USA
+ * Woo Sub Lee, Korea
+ * Yoshikazu Ohtsubo, Japan
+ * Yvan Baudoin, Belgium
