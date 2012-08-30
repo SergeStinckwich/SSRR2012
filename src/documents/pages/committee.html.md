@@ -44,7 +44,6 @@ title: 'Commitee'
  * Christian Dornhege, Germany
  * Christopher Geyer, USA
  * Cindy Bethel, USA
- * Cyril Stachniss, Germany
  * Daniele Nardi, Italy
  * David Capelleri, USA
  * Dirk Holz, Germany
@@ -76,7 +75,6 @@ title: 'Commitee'
  * Ken Whitebread, USA
  * Kingsley Fregene, USA
  * Luca Iocchi, Italy
- * Matthijs Spaan, Portugal
  * Margarita Chli, Switzerland
  * Mariusz Wzorek, Sweden
  * Markus Vincze, Austria
