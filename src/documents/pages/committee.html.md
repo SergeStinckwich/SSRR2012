@@ -22,7 +22,7 @@ title: 'Commitee'
 
 ###Publication Chair
  * Howie Choset, CMU, USA
-
+ 
 ###Local Arrangements and Publicity Chair
  * Dylan Shell, Texas A&M, USA
 
