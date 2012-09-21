@@ -3,7 +3,10 @@ layout: 'default'
 title: 'Registration'
 ---
 
-Registration will be open shortly and is required with submission of the final paper. Rates are:
+Advance Registration now open through Oct. 19 here: 
+http://engrevent.tamu.edu/event/100908
+
+Rates are:
 
 - IEEE Members advance registration US$375, on-site US$400
 - IEEE Student members advance registration US$300, on-site US$300
