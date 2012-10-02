@@ -60,10 +60,13 @@ SSRR 2012 will have four paper awards:
  * Best Non-Traditional Robotics Paper Award
  * Outrageous Visions for Computing in SSRR
 
+###Page Late Breaking Reports due Oct 15
+Late Breaking Reports appear in the proceedings, and are presented as posters- but are no more than 2 pages in length, in essence an extended abstract. They are intended to share novel directions or work which has not been fully analyzed or explored. Late Breaking Reports are reviewed and the relevance of the material to the SSR domains must be clear. Please send late breaking reports directly to murphy@cse.tamu.edu.
+
 ###Important Dates
 
  * **Jul 30, 2012** Submission of proposals for tutorials, special sessions
  * **Aug 23, 2012** Submission of regular papers, center/project papers, and visioning papers
  * **Oct 1, 2012** Notification of acceptance
- * **Oct 1, 2012** Submission of 2 page Late Breaking Reports
+ * **Oct 15, 2012** Submission of 2 page Late Breaking Reports
  * **Oct 22, 2012** Submission of final papers
