@@ -3,6 +3,8 @@ layout: 'default'
 title: 'Conference Schedule'
 ---
 
+Complete sessions schedule available [here](http://ssrr2012.org/images/sessions-schedule.jpg).
+
 #Schedule for papers presentations
 ##Monday, November 5
 
