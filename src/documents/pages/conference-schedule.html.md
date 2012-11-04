@@ -3,9 +3,8 @@ layout: 'default'
 title: 'Conference Schedule'
 ---
 
-Complete sessions schedule available [here](http://ssrr2012.org/images/sessions-schedule.jpg).
+Schedule for paper presentations may have shifted by 5 -10 minutes, please see the updated schedule [here](http://ssrr2012.org/scheduleAndMap.pdf).
 
-#Schedule for papers presentations
 ##Monday, November 5
 
 ### 10:15 S1A: Urban Search & Rescue & Field Tests
