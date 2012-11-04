@@ -10,3 +10,6 @@ Taxi service from Houston to College Station is not an option but a shared multi
 College Station is in eastern Texas (where Shelton Cooper on "The Big Bang Theory" is from), not western Texas, so don't expect a desert with cactus.
 
 Do expect cowboy hats, big trucks, big steaks, oil wells, and friendly people. November temperatures.
+
+# Visa information
+SSRR 2012 provides official letters of invitation to persons who have fully registered for the conference and for which payment has been received, please send an e-mail to murphy AT cse.tamu.edu. Note that per IEEE Policy, only registered, paid persons may receive an invitation letter to the conference. This letter does not guarantee that you will receive a visa. It is recommended that you start this process as soon as possible!
